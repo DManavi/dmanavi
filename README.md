@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 👯 I’m looking to collaborate on a DDD architectured project.
+
 🔭 I’m currently working on PuzzleIO
 
 <!--
