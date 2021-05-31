@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-👯 I’m looking to collaborate on a DDD architectured project.
-
-🔭 I’m currently working on PuzzleIO
+Exploring new GitHub features.
 
 <!--
 **DManavi/dmanavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
