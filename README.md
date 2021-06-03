@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Exploring new GitHub features.
+A dummy commit to make sure that I have 365 days activity :D 
 
 <!--
 **DManavi/dmanavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
