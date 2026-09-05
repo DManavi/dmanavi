@@ -8,7 +8,6 @@ Building reliable systems across APIs, serverless platforms, developer tooling, 
 
 [![Website](https://img.shields.io/badge/Website-dmanavi.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dmanavi.com/?utm_source=github)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dmanavi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dmanavi)
-[![Email](https://img.shields.io/badge/Email-me%40dmanavi.com-181717?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@dmanavi.com)
 
 </div>
 
