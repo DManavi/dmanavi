@@ -66,14 +66,14 @@ TypeScript assertions, type guards, and safe execution utilities that connect co
 </td>
 <td width="50%" valign="top">
 
-### [lambda-init](https://github.com/DManavi/lambda_init)
+### [error-lib](https://github.com/DManavi/error_lib)
 
-A focused initializer for synchronous and asynchronous application setup before serverless handlers begin processing requests.
+A standard error library that provides a unified error structure for TypeScript and JavaScript applications in Node.js and browsers.
 
-`TypeScript` `Serverless` `AWS Lambda` `Async`
+`TypeScript` `JavaScript` `Node.js` `Error Handling`
 
-[![npm](https://img.shields.io/npm/v/lambda-init?label=npm)](https://www.npmjs.com/package/lambda-init)
-[![npm downloads](https://img.shields.io/npm/dm/lambda-init?label=downloads)](https://www.npmjs.com/package/lambda-init)
+[![npm](https://img.shields.io/npm/v/error-lib?label=npm)](https://www.npmjs.com/package/error-lib)
+[![npm downloads](https://img.shields.io/npm/dm/error-lib?label=downloads)](https://www.npmjs.com/package/error-lib)
 
 </td>
 </tr>
